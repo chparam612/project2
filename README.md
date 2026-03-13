@@ -1,4 +1,4 @@
 #NEW PROJECT
 
 This project was created on terminal window.
-created by Paramveer Singh.
+Created by Paramveer Singh.
